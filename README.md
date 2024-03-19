@@ -35,3 +35,7 @@ If you would like to contribute to this project, please follow the standard GitH
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Version
+
+0.1.0
